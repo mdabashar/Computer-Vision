@@ -1,0 +1,6 @@
+Custom Image Classifier:
+1. Can train with user given dataset
+2. Custom pre-processing
+3. The network is custom designed 
+4. Can store and load the trained model
+5. Can make inference on new data
